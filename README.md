@@ -1,7 +1,3 @@
-Hoàng Phi Long - LongHP7
-Dear teachers, this is my mock project for my internship program. 
-Hope it will not be error on delivery T.T
-
 ##Requirements
    Windows OS
    gcc.exe (tdm-1) 5.1.0
